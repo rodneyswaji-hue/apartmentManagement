@@ -1,0 +1,1 @@
+export default function Footer(){ return (<footer style={{maxWidth:1100, margin:'24px auto', textAlign:'center', color:'#6b7280'}}>Made with ❤️ — Rental Manager</footer>) }

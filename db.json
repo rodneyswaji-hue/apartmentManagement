@@ -1,0 +1,115 @@
+{
+  "apartments": [
+    {
+      "id": "bc15",
+      "name": "mwanzo",
+      "location": "Eldoret",
+      "numHouses": 11
+    }
+  ],
+  "houses": [
+    {
+      "id": "e196",
+      "apartmentId": "bc15",
+      "number": "House 1",
+      "tenantName": null,
+      "rent": 0,
+      "debt": 0
+    },
+    {
+      "id": "c94a",
+      "apartmentId": "bc15",
+      "number": "House 2",
+      "tenantName": null,
+      "rent": 0,
+      "debt": 0
+    },
+    {
+      "id": "0e7b",
+      "apartmentId": "bc15",
+      "number": "House 3",
+      "tenantName": null,
+      "rent": 0,
+      "debt": 0
+    },
+    {
+      "id": "8194",
+      "apartmentId": "bc15",
+      "number": "House 4",
+      "tenantName": null,
+      "rent": 0,
+      "debt": 0
+    },
+    {
+      "id": "38a3",
+      "apartmentId": "bc15",
+      "number": "House 5",
+      "tenantName": "",
+      "rent": 0,
+      "debt": 0
+    },
+    {
+      "id": "9e79",
+      "apartmentId": "bc15",
+      "number": "House 6",
+      "tenantName": null,
+      "rent": 0,
+      "debt": 0
+    },
+    {
+      "id": "f404",
+      "apartmentId": "bc15",
+      "number": "House 7",
+      "tenantName": null,
+      "rent": 0,
+      "debt": 0
+    },
+    {
+      "id": "e369",
+      "apartmentId": "bc15",
+      "number": "House 8",
+      "tenantName": null,
+      "rent": 0,
+      "debt": 0
+    },
+    {
+      "id": "abf9",
+      "apartmentId": "bc15",
+      "number": "House 9",
+      "tenantName": null,
+      "rent": 0,
+      "debt": 0
+    },
+    {
+      "id": "0299",
+      "apartmentId": "bc15",
+      "number": "House 10",
+      "tenantName": null,
+      "rent": 0,
+      "debt": 0
+    },
+    {
+      "id": "feef",
+      "apartmentId": "bc15",
+      "number": "House 11",
+      "tenantName": null,
+      "rent": 0,
+      "debt": 0
+    }
+  ],
+  "receipts": [
+    {
+      "id": "a049",
+      "houseId": "38a3",
+      "date": "2025-12-07",
+      "amount": 100000
+    }
+  ],
+  "users": [],
+  "meta": [
+    {
+      "lastRolloverMonth": null,
+      "id": "defc"
+    }
+  ]
+}
