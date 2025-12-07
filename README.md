@@ -65,7 +65,7 @@ rental-management/
 
 1. **Clone the repository**  
 ```bash
-git clone <your-repo-url>
+git clone rodneyswaji-hue
 cd rental-management
 
 ```
